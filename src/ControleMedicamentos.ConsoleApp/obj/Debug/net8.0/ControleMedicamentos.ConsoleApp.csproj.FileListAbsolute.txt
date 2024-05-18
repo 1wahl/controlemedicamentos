@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\estudo\Academia do Programador\ctrlmedicamentos\src\ControleMedicamentos.ConsoleApp\bin\Debug\net8.0\ControleMedicamentos.ConsoleApp.exe
+C:\Users\User\Desktop\estudo\Academia do Programador\ctrlmedicamentos\src\ControleMedicamentos.ConsoleApp\bin\Debug\net8.0\ControleMedicamentos.ConsoleApp.deps.json
+C:\Users\User\Desktop\estudo\Academia do Programador\ctrlmedicamentos\src\ControleMedicamentos.ConsoleApp\bin\Debug\net8.0\ControleMedicamentos.ConsoleApp.runtimeconfig.json
+C:\Users\User\Desktop\estudo\Academia do Programador\ctrlmedicamentos\src\ControleMedicamentos.ConsoleApp\bin\Debug\net8.0\ControleMedicamentos.ConsoleApp.dll
+C:\Users\User\Desktop\estudo\Academia do Programador\ctrlmedicamentos\src\ControleMedicamentos.ConsoleApp\bin\Debug\net8.0\ControleMedicamentos.ConsoleApp.pdb
+C:\Users\User\Desktop\estudo\Academia do Programador\ctrlmedicamentos\src\ControleMedicamentos.ConsoleApp\obj\Debug\net8.0\ControleMedicamentos.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\estudo\Academia do Programador\ctrlmedicamentos\src\ControleMedicamentos.ConsoleApp\obj\Debug\net8.0\ControleMedicamentos.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\estudo\Academia do Programador\ctrlmedicamentos\src\ControleMedicamentos.ConsoleApp\obj\Debug\net8.0\ControleMedicamentos.ConsoleApp.AssemblyInfo.cs
+C:\Users\User\Desktop\estudo\Academia do Programador\ctrlmedicamentos\src\ControleMedicamentos.ConsoleApp\obj\Debug\net8.0\ControleMedicamentos.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\estudo\Academia do Programador\ctrlmedicamentos\src\ControleMedicamentos.ConsoleApp\obj\Debug\net8.0\ControleMedicamentos.ConsoleApp.sourcelink.json
+C:\Users\User\Desktop\estudo\Academia do Programador\ctrlmedicamentos\src\ControleMedicamentos.ConsoleApp\obj\Debug\net8.0\ControleMedicamentos.ConsoleApp.dll
+C:\Users\User\Desktop\estudo\Academia do Programador\ctrlmedicamentos\src\ControleMedicamentos.ConsoleApp\obj\Debug\net8.0\refint\ControleMedicamentos.ConsoleApp.dll
+C:\Users\User\Desktop\estudo\Academia do Programador\ctrlmedicamentos\src\ControleMedicamentos.ConsoleApp\obj\Debug\net8.0\ControleMedicamentos.ConsoleApp.pdb
+C:\Users\User\Desktop\estudo\Academia do Programador\ctrlmedicamentos\src\ControleMedicamentos.ConsoleApp\obj\Debug\net8.0\ControleMedicamentos.ConsoleApp.genruntimeconfig.cache
+C:\Users\User\Desktop\estudo\Academia do Programador\ctrlmedicamentos\src\ControleMedicamentos.ConsoleApp\obj\Debug\net8.0\ref\ControleMedicamentos.ConsoleApp.dll
